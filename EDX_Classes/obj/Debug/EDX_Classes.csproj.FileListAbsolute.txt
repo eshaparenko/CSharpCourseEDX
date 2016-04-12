@@ -1,1 +1,7 @@
 D:\Work\С#\CSharpEDX\EDX_Classes\EDX_Classes\bin\Debug\EDX_Classes.exe.config
+D:\C# practice\EDX\EDX_Classes\bin\Debug\EDX_Classes.exe.config
+D:\C# practice\EDX\EDX_Classes\bin\Debug\EDX_Classes.exe
+D:\C# practice\EDX\EDX_Classes\bin\Debug\EDX_Classes.pdb
+D:\C# practice\EDX\EDX_Classes\obj\Debug\EDX_Classes.csprojResolveAssemblyReference.cache
+D:\C# practice\EDX\EDX_Classes\obj\Debug\EDX_Classes.exe
+D:\C# practice\EDX\EDX_Classes\obj\Debug\EDX_Classes.pdb
