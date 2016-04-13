@@ -1,0 +1,12 @@
+D:\Work\С#\CSharpEDX\EDX_Classes\ChessBoard\bin\Debug\ChessBoard.exe.config
+D:\Work\С#\CSharpEDX\EDX_Classes\ChessBoard\bin\Debug\ChessBoard.exe
+D:\Work\С#\CSharpEDX\EDX_Classes\ChessBoard\bin\Debug\ChessBoard.pdb
+D:\Work\С#\CSharpEDX\EDX_Classes\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
+D:\Work\С#\CSharpEDX\EDX_Classes\ChessBoard\obj\Debug\ChessBoard.exe
+D:\Work\С#\CSharpEDX\EDX_Classes\ChessBoard\obj\Debug\ChessBoard.pdb
+D:\C# practice\EDX\ChessBoard\bin\Debug\ChessBoard.exe.config
+D:\C# practice\EDX\ChessBoard\obj\Debug\ChessBoard.exe
+D:\C# practice\EDX\ChessBoard\obj\Debug\ChessBoard.pdb
+D:\C# practice\EDX\ChessBoard\bin\Debug\ChessBoard.exe
+D:\C# practice\EDX\ChessBoard\bin\Debug\ChessBoard.pdb
+D:\C# practice\EDX\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
