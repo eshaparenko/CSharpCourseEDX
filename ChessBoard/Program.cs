@@ -10,6 +10,7 @@ namespace ChessBoard
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             for (int i = 0; i < 8; i++)
             {
                 
@@ -32,6 +33,24 @@ namespace ChessBoard
                         Console.WriteLine();
                     }
                     
+=======
+            for (int j = 0; j <=3; j++)
+            {
+                if (j % 2 == 0)
+                {
+                    for (int i = 0; i <= 3; i++)
+                    {
+                        Console.Write("X0");
+                    }
+                }
+                else
+                {
+                    for (int i = 0; i <= 3; i++)
+                    {
+                        Console.WriteLine("0X");
+                    }
+                }
+>>>>>>> 4ac15da15a1b419894df87de714ab6c03c2fabbe
                 
             }
             
